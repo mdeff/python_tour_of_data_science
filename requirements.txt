@@ -8,5 +8,15 @@ xlrd
 pytables
 sqlalchemy
 
+#statsmodels
+sympy
+#autograd
+numba
+#bokeh
+
+keras
+#theano
+#tensorflow
+
 jupyter
 ipython
