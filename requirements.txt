@@ -5,14 +5,15 @@ scikit-learn
 
 pandas
 xlrd
+xlwt
 pytables
 sqlalchemy
 
-#statsmodels
+statsmodels
 sympy
-#autograd
+autograd
+bokeh
 numba
-#bokeh
 
 keras
 #theano
