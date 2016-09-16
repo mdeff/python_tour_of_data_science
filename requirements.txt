@@ -6,7 +6,7 @@ scikit-learn
 pandas
 xlrd
 xlwt
-pytables
+tables
 sqlalchemy
 
 statsmodels
