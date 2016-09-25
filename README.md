@@ -9,7 +9,7 @@ encountered in
 At the end of this tour, you'll have a broad overview of the available
 libraries as well as why and how they are used for each task. This notebook
 aims at answering the following question: **which tool should I use for which
-task**.
+task and how**.
 
 The primer is a [Jupyter](http://jupyter.org) notebook.
 
