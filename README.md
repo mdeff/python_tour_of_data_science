@@ -26,6 +26,10 @@ The primer is a [Jupyter](http://jupyter.org) notebook.
   pyvenv /path/to/new/virtual/env
   . /path/to/new/virtual/env/bin/activate
 
+  # clone repository
+  git clone https://github.com/mdeff/python_tour_of_data_science.git
+  cd python_tour_of_data_science
+
   make install  # install the dependencies (requirements.txt)
   make          # run the notebook to be sure everything is fine
   make clean    # clear the generated outputs
