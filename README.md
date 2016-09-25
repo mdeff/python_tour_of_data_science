@@ -14,8 +14,22 @@ task and how**.
 The primer is a [Jupyter](http://jupyter.org) notebook.
 
 * The easiest way to look at it is to open the
-[HTML version](http://nbviewer.jupyter.org/github/mdeff/python_tour_of_data_science/blob/with_outputs/python_tour_of_data_science.ipynb)
-rendered by nbviewer.
-* The most interactive way is to install Python and Jupyter on your computer
-and run the code by yourself. You can type `make` to run the notebook and `make
-clean` to clear the produced outputs.
+  [HTML version](http://nbviewer.jupyter.org/github/mdeff/python_tour_of_data_science/blob/with_outputs/python_tour_of_data_science.ipynb)
+  rendered by nbviewer.
+* The most interactive way is to run the code by yourself, after installing
+  Python and the required packages on your computer.
+  ```sh
+  # brew / apt-get / yum / pacman
+  package-manager install python3
+
+  # virtual environment
+  pyvenv /path/to/new/virtual/env
+  . /path/to/new/virtual/env/bin/activate
+
+  make install  # install the dependencies (requirements.txt)
+  make          # run the notebook to be sure everything is fine
+  make clean    # clear the generated outputs
+
+  # display notebook
+  jupyter notebook
+  ```
