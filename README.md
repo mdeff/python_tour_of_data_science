@@ -17,4 +17,5 @@ The primer is a [Jupyter](http://jupyter.org) notebook.
 [HTML version](http://nbviewer.jupyter.org/github/mdeff/python_tour_of_data_science/blob/with_outputs/python_tour_of_data_science.ipynb)
 rendered by nbviewer.
 * The most interactive way is to install Python and Jupyter on your computer
-and run the code by yourself.
+and run the code by yourself. You can type `make` to run the notebook and `make
+clean` to clear the produced outputs.
