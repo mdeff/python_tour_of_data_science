@@ -12,3 +12,5 @@ clean:
 	rm -f *function*
 	rm -f subset.html
 	rm -fr data
+
+.PHONY: run install clean
