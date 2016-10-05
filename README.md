@@ -36,4 +36,7 @@ The primer is a [Jupyter](http://jupyter.org) notebook.
 
   # display notebook
   jupyter notebook
-  ```
+  `
+
+All codes and examples are released under the terms of the
+[MIT License](LICENSE.txt).
