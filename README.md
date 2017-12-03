@@ -1,5 +1,9 @@
 # A Python Tour of Data Science
 
+[![Binder](https://mybinder.org/badge.svg)][binder]
+
+[binder]: https://mybinder.org/v2/gh/mdeff/python_tour_of_data_science/master?filepath=python_tour_of_data_science.ipynb
+
 This short primer is an introduction to the scientific
 [Python](https://www.python.org) stack for
 [Data Science](https://en.wikipedia.org/wiki/Data_science). It is designed as
@@ -13,9 +17,10 @@ task and how**.
 
 The primer is a [Jupyter](http://jupyter.org) notebook.
 
-* The easiest way to look at it is to open the
-  [HTML version](http://nbviewer.jupyter.org/github/mdeff/python_tour_of_data_science/blob/with_outputs/python_tour_of_data_science.ipynb)
-  rendered by nbviewer.
+* The easiest way to play with it from your browser without installing anything
+  is to click on the [binder badge][binder].
+* If you only want to look at it, open the [HTML version][nbviewer] rendered by
+  nbviewer.
 * The most interactive way is to run the code by yourself, after installing
   Python and the required packages on your computer.
   ```sh
@@ -40,3 +45,5 @@ The primer is a [Jupyter](http://jupyter.org) notebook.
 
 All codes and examples are released under the terms of the
 [MIT License](LICENSE.txt).
+
+[nbviewer]: http://nbviewer.jupyter.org/github/mdeff/python_tour_of_data_science/blob/with_outputs/python_tour_of_data_science.ipynb
