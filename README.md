@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)][binder]
 
-[binder]: https://mybinder.org/v2/gh/mdeff/python_tour_of_data_science/master?filepath=python_tour_of_data_science.ipynb
+[binder]: https://mybinder.org/v2/gh/mdeff/python_tour_of_data_science/with_outputs?filepath=python_tour_of_data_science.ipynb
 
 This short primer is an introduction to the scientific
 [Python](https://www.python.org) stack for
